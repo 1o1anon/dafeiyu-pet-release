@@ -9,8 +9,8 @@
 
 请到 [Releases](../../releases) 下载最新版本：
 
-- `大肥鱼-正式版-v1.0.2.zip`（约 770MB，Windows 64 位）
-- `大肥鱼-正式版-v1.0.2.SHA256.txt`（校验值）
+- `DaFeiYu-v1.0.2.zip`（约 770MB，Windows 64 位）
+- `DaFeiYu-v1.0.2.SHA256.txt`（校验值）
 
 SHA256：
 
